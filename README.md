@@ -1,2 +1,2 @@
-# courses
-courses repository
+# Courses
+Courses repository
