@@ -1,5 +1,7 @@
 # BUT3 VCOD Courses repository
 
+* [20231006_Présentation_du_COURS.pdf](./20231006_Présentation_du_COURS.pdf)
+
 ### cycles-agiles
 
 * [20231013_Cycles_de_vie_du_Logiciel.pdf](cycles-agiles/20231013_Cycles_de_vie_du_Logiciel.pdf)
@@ -11,3 +13,7 @@
 * [20231129_Git_2_2FA.pdf](git-workshop/20231129_Git_2_2FA.pdf)
 * [20231201_Git_3_Config.pdf](git-workshop/20231201_Git_3_Config.pdf)
 * [20231207_Git_4_Branches.pdf](git-workshop/20231207_Git_4_Branches.pdf)
+
+### evals
+
+* [20231123_Eval_1_Cycles.pdf](evals/20231123_Eval_1_Cycles.pdf)
